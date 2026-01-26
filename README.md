@@ -54,8 +54,10 @@ A safety enhancement concept using sensors and embedded logic for two-wheelers.
 Diving deeper into Linux, exploring Spring Boot, and keeping my embedded curiosity alive.
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Alinps&icon_color=000&text_color=000&bg_color=ffffff00&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinps&layout=compact&text_color=000&bg_color=ffffff00&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Alinps&icon_color=cccccc&text_color=cccccc&bg_color=ffffff00&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinps&layout=compact&text_color=cccccc&bg_color=ffffff00&hide_border=true)
+
+
 
 ## Contact
 Reach me at: alinps8406@gmail.com  
