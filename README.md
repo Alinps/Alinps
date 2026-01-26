@@ -59,10 +59,6 @@ Diving deeper into Linux, exploring Spring Boot, and keeping my embedded curiosi
 
 
 
-## Contact
-Reach me at: alinps8406@gmail.com  
-I'm also on LinkedIn if you want to say hi!
-
 
 
 
