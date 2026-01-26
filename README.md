@@ -11,13 +11,13 @@ Web developer who occasionally wanders into the embedded world.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-## Embedded & IoT
+### Embedded & IoT
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?logo=espressif&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-26A69A?logo=arduino&logoColor=white)
 
-## Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
