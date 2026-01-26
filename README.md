@@ -22,33 +22,6 @@ Web developer who occasionally wanders into the embedded world.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-## Featured Projects
-
-### **Django URL Shortner**
-[Repository](https://github.com/Alinps/django-url-shortener)  
-A backend-focused URL Shortner with click tracking, activation toggling and analytics.
-
-### **Full-Stack Todo App (React + Django)**
-**Frontend:**  
-[Repository](https://github.com/Alinps/todo-list-frontend-react)  
-
-**Backend:**  
-[Repository](https://github.com/Alinps/todo-list-backend-django)  
-
-A full-stack todo manager with CRUD operations, pagination, search and MySQL support.
-
-### **Hospital Appointment Booking System (React + Django)**
-**Frontend:**  
-[Repository](https://github.com/Alinps/Hospital_Appointment_Booking_App_Frontend-React.js-)  
-
-**Backend:**  
-[Repository](https://github.com/Alinps/Hospital_Appointment_Booking_App_Backend_Django)  
-
-A patient-doctor appointment booking system with authentication and scheduling.
-
-### **Intelligent Riding Assistance for Two-Wheelers**
-[Repository](https://github.com/Alinps/Intelligent-Riding-Assistance-for-two-wheelers)  
-A safety enhancement concept using sensors and embedded logic for two-wheelers.
 
 ## Currently Learning
 Diving deeper into Linux, exploring Spring Boot, and keeping my embedded curiosity alive.
