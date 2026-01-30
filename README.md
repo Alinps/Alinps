@@ -26,9 +26,12 @@ Web developer who occasionally wanders into the embedded world.
 ## Currently Learning
 Diving deeper into Linux, exploring Spring Boot, and keeping my embedded curiosity alive.
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Alinps&icon_color=cccccc&text_color=cccccc&bg_color=ffffff00&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinps&layout=compact&text_color=cccccc&bg_color=ffffff00&hide_border=true)
+## 📊 GitHub Stats
+
+![Alin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinps&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alinps&layout=compact&theme=transparent&hide_border=true)
+
 
 
 
