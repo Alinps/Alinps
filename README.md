@@ -5,7 +5,7 @@ Full Stack Developer with a focus on backend systems and embedded integration.
 
 ## Tech Stack
 
-**Languages:** Python, Go, Java, C, JavaScript  
+**Languages:** Python, Go, Java, JavaScript  
 **Frontend:** React, Next.js  
 **Backend:** Django, Spring Boot  
 **Databases:** MySQL  
