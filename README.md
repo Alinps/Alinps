@@ -23,9 +23,4 @@ Full Stack Developer with a focus on backend systems and embedded integration.
 - Containerizing applications using Docker
 
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alinps&show_icons=true&theme=github_dark&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alinps&layout=compact&theme=github_dark&cache_seconds=86400" />
-</p>
