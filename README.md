@@ -14,14 +14,7 @@ Full Stack Developer with a focus on backend systems and embedded integration.
 **Embedded & IoT:** ESP8266, ESP32, IoT  
 
 ---
-## 🐧 Linux Learning Journey
 
-## 🎖 Certification
-
-![Cisco Badge](https://www.credly.com/badges/a5f29fff-5249-4633-9c21-5cea0db3939a/public_url)
-
-- Linux Unhatched – Cisco Networking Academy
-- Skills: CLI, file system, permissions, processes
 
 ## Currently Learning
 - Deepening Linux knowledge  
