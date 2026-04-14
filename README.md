@@ -14,7 +14,7 @@ Full Stack Developer with a focus on backend systems and embedded integration.
 **Embedded & IoT:** ESP8266, ESP32, IoT  
 
 ---
-# 🐧 Linux Learning Journey
+## 🐧 Linux Learning Journey
 
 ## 🎖 Certification
 
