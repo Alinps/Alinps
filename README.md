@@ -13,15 +13,6 @@ Full Stack Developer with a focus on backend systems and embedded integration.
 **Cloud & Platforms:** Vercel, Render  
 **Embedded & IoT:** ESP8266, ESP32, IoT  
 
----
-
-
-## Currently Learning
-- Deepening Linux knowledge  
-- Exploring Spring Boot architecture  
-- Learning Go for backend systems  
-- Working with Next.js for modern frontend development  
-- Containerizing applications using Docker
 
 
 
